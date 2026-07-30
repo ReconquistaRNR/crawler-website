@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 from datetime import datetime
 import time
 import os
-#TEST
+
 
 # ================== Website eingeben ==================
 website = input("Website eingeben (ohne https://): ").strip()
